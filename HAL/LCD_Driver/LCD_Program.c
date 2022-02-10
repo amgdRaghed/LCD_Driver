@@ -13,8 +13,8 @@
 #include "DIO_Interface.h"
 
 /* Include HAL Layer */
-#include "LCD_config.h"
-#include "LCD_priv.h"
+#include "LCD_Config.h"
+#include "LCD_Private.h"
 
 #include <util/delay.h>
 
