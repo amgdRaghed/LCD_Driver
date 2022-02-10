@@ -1,5 +1,5 @@
 /*
- * LCD_prog.c
+ * LCD_Program.c
  *
  *  Created on: Nov 14, 2021
  *      Author: amgdRaghed
